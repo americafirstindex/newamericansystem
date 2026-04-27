@@ -1,0 +1,15 @@
+.ft{
+  max-width:900px;
+  margin:0 auto;
+  padding:1.5rem 2rem;
+  text-align:center;
+  border-top:2px solid var(--gold-dim);
+}
+.ft p{
+  font-weight:600;
+  font-size:.5rem;
+  letter-spacing:2px;
+  color:var(--text-ghost);
+  text-transform:uppercase;
+}
+.ft a{color:var(--text-dim);text-decoration:none}
