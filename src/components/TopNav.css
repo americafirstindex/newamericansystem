@@ -44,3 +44,9 @@
   border-radius:4px;
 }
 .tn-cta:hover{background:var(--gold-hot)!important}
+@media(max-width:430px){
+  .topnav{padding:.5rem 1rem}
+  .tn-l span{display:none}
+  .tn-r{gap:.85rem}
+  .tn-r a{font-size:.55rem;letter-spacing:2px}
+}
