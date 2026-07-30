@@ -7,9 +7,7 @@ import './Home.css';
 
 const ENDORSED = [
   { initials: 'JY', name: 'Jace Yarbrough',   dist: 'TX-32', desc: 'Air Force veteran. Stanford Law. Trump-endorsed.',           status: 'won',    classes: 'ec wc rv rv-d1' },
-  { initials: 'JS', name: 'Jackson Stallings', dist: 'OK-01', desc: 'Navy JAG. Yale. America First fighter for Oklahoma.',         status: 'active', classes: 'ec ac rv rv-d2' },
   { initials: 'BH', name: 'Brandon Herrera',   dist: 'TX-23', desc: 'The AK Guy. 2A champion. Trump-endorsed nominee.',            status: 'won',    classes: 'ec wc rv rv-d3' },
-  { initials: 'KG', name: 'Keith Gross',       dist: 'FL-02', desc: 'Army Guard veteran. Businessman. Panhandle fighter.',         status: 'active', classes: 'ec ac rv rv-d4' },
   { initials: 'BM', name: 'Blake Miguez',      dist: 'LA-05', desc: 'State Senator. World champion marksman. Trump-endorsed.',    status: 'active', classes: 'ec ac rv rv-d1' },
 ];
 
