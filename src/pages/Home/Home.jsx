@@ -176,9 +176,9 @@ export default function Home() {
             ))}
           </div>
           <div className="map-link rv">
-            <Link to="/endorsed-map" className="btn btn-line" style={{ fontSize: '.75rem' }}>
+            <a href="https://americafirstindex.us" className="btn btn-line" style={{ fontSize: '.75rem' }} target="_blank" rel="noopener noreferrer">
               View Endorsed Candidates Map &rarr;
-            </Link>
+            </a>
           </div>
         </div>
       </section>
